@@ -1,5 +1,4 @@
-# Project1-
-Aviation Data Analysis - A Python Exploration
+# Aviation Data Analysis - A Python Exploration
 This project explores a dataset of aviation accidents, aiming to uncover insights into accident trends, injury severity distribution, and potential areas for safety improvement.
 
 Libraries Used:
