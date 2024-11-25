@@ -3,11 +3,11 @@ This project explores a dataset of aviation accidents, aiming to uncover insight
 
 Libraries Used:
 
-pandas
-numpy
-matplotlib.pyplot
-seaborn
-sklearn.model_selection (not used in this initial exploration)
+pandas,
+numpy,
+matplotlib.pyplot,
+seaborn,
+sklearn.model_selection (not used in this initial exploration),
 Data Cleaning:
 
 Missing values were handled using forward fill and mode imputation.
